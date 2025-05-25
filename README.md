@@ -22,6 +22,6 @@
 📦 Installation
 
 1. 📁 Clone or download the repository.
-2. 📝 change the name from `pma-voice-invisible` to `pma-voice`
+2. 📂 go in the `pma-voice-invisible.zip` folder and find `pma-voice`
 3. 📂 Place the `pma-voice` folder in your FiveM `resources` directory.  
 4. 📝 Add the following to your `server.cfg`:
